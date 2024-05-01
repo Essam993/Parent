@@ -1,0 +1,3 @@
+[submodule "src/submodule"]
+	path = src/submodule
+	url = https://github.com/Essam993/Child-Project.git
